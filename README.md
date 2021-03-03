@@ -7,5 +7,6 @@ Este repositorio contendra la totalidad de los desarrollos propuestos en el curs
 ## Asignaciones
 
 ### Build Your Own 2D Game Engine
-- [Capitulo 1](Capitulo1)
+- [Capitulo 2](Capitulo2)
 
+- [Capitulo 3](Capitulo3)
