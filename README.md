@@ -2,7 +2,7 @@
 
 ## Autora: Aida Mina - 1225328 - [aida.mina@correounivalle.edu.co](aida.mina@correounivalle.edu.co)
 
-Este repositorio contendra la totalidad de los desarrollos propuestos en el curso computación grafica.
+Este repositorio contendrá la totalidad de los desarrollos propuestos en el curso computación grafica.
 
 ## Asignaciones
 
